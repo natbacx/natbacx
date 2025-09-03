@@ -56,7 +56,7 @@
 
 ### 🧠 Ongoing Projects
 
-- Music upload and player system using PHP + SQL
+- Music upload and player preview using Ionic + Angular
 - Account management app with secure login features
 - Personal portfolio with creative, dynamic design
 ---
